@@ -3,7 +3,6 @@ title: "Job Market Paper"
 collection: publications
 permalink: 
 excerpt: 
-date: 
 venue: 'Journal 1'
 paperurl: 
 citation: 
