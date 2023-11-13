@@ -8,8 +8,6 @@ date: 2022-2023
 location: "Lancaster, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 ECON 326 Monetary Macroeconomics
 ======
 
