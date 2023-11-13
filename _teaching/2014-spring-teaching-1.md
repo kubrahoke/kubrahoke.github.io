@@ -7,7 +7,7 @@ title: ''
 
 **Teaching Associate, Economics Department, Lancaster University , 2022-2023**
 
-   * <span style="color:Black; font-size: 14px"> Monetary Macroeconomics (ECON326 ) </span> 
+   * <span style="color:Black; font-size: 14px"> Monetary Macroeconomics (ECON326) </span> 
    * <span style="color:Black; font-size: 14px">   Intermediate Macroeconomics 2 (ECON223) </span>
    * <span style="color:Black; font-size: 14px">   Macroeconomic Analysis (ECON208)</span> 
 
