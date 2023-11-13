@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+permalink: /teaching/
+author_profile: true
+title: ''
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Associate, Economics Department, Lancaster University , 2022-2023**
 
-Heading 1
-======
+   * <span style="color:Black; font-size: 14px"> Monetary Macroeconomics (ECON326 ) </span> 
+   
+   * <span style="color:Black; font-size: 14px">   Intermediate Macroeconomics 2 (ECON223) </span>
 
-Heading 2
-======
+   *  * <span style="color:Black; font-size: 14px">   Macroeconomic Analysis (ECON208)</span> 
 
-Heading 3
-======
+**Teaching Assistant, Economics Department, Boğaziçi University, 2018-2022**
+  * <span style="color:Black; font-size: 14px">  Macroeconomics (EC205)</span> 
+   * <span style="color:Black; font-size: 14px">  Advanced Macroeconomics (EC308)</span> 
+   * <span style="color:Black; font-size: 14px">  Graduate Macroeconomics (EC504)</span> 
