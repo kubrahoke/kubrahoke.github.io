@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Job Market Paper"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: 
+excerpt: 
+date: 
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Sectoral effects of corporate taxation in OECD countries (with Olivier Cardi and Romain Restout).
+Abstarct: By developing a new identification of exogenous and permanent changes in corporate taxation, we explore its dynamic effects on labor and innovation which appear to vary widely across countries and sectors. This SVAR identification is based on the downward trend of corporate tax rates observed in OECD countries which is rooted in international competition to attract capital following the removal of capital controls. Our SVAR evidence for a panel of eleven OECD countries over 1973-2017 reveals that following a decline in profits’ taxation, technology improvements are concentrated in traded industries while labor growth originates from non-traded industries. When we split our sample of eleven OECD countries into two sub-samples, we find empirically that continental European countries increase labor significantly while hours worked is essentially unchanged in English-speaking and Scandinavian countries. By contrast, lower corporate taxes encourage traded firms in English-speaking and Scandinavian countries to increase innovation, as captured by a permanent rise in utilization-adjusted-total factor productivity while innovation remains unchanged in continental European countries. Time series on the stock of R&D at a sectoral level corroborate these findings as only the stock of ideas in the traded sector of English-speaking and Scandinavian countries increases significantly following a permanent tax cut. In line with our model’s predictions, a corporate tax cut increases labor in countries with sticky wages and has an expansionary effect on innovation in countries where the cost of innovating is low.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
