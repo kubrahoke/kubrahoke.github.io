@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /publications/
 author_profile: true
 title: ''
 ---
