@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "F. Kubra Hoke"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Lancaster,UK"
   employer         :
   pubmed           : 
