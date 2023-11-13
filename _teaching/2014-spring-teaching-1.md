@@ -11,7 +11,7 @@ title: ''
    
    * <span style="color:Black; font-size: 14px">   Intermediate Macroeconomics 2 (ECON223) </span>
 
-   *  * <span style="color:Black; font-size: 14px">   Macroeconomic Analysis (ECON208)</span> 
+   * <span style="color:Black; font-size: 14px">   Macroeconomic Analysis (ECON208)</span> 
 
 **Teaching Assistant, Economics Department, Boğaziçi University, 2018-2022**
   * <span style="color:Black; font-size: 14px">  Macroeconomics (EC205)</span> 
