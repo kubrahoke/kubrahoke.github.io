@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Teaching Associate at Lancaster University Management School. I defended my Ph.D. thesis in economics at the Bogazici University in October 2022 under the supervision of Murat Koyuncu.
+<span style="font-size:16px;">I am Teaching Associate at Lancaster University Management School. I defended my Ph.D. thesis in economics at the Bogazici University in October 2022 under the supervision of Murat Koyuncu.
 
 My primary research focus is in the field of macroeconomics, with a specific emphasis on growth and taxation.
 
-I am on the economics job market in 2023/2024.
+I am on the economics job market in 2023/2024.</span>
+
 
 <span style="color:Black; font-size: 14px"> [CV](https://kubrahoke.github.io/files/Resume.pdf) </span>
 
