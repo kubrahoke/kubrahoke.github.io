@@ -12,6 +12,8 @@ I am Teaching Associate at Lancaster University Management School. I defended my
 
 My primary research focus is in the field of macroeconomics, with a specific emphasis on growth and taxation.
 
+I am on the economics job market in 2023/2024.
+
 <span style="color:Black; font-size: 14px"> [CV](https://kubrahoke.github.io/files/Resume.pdf) </span>
 
 <span style="color:Black; font-size: 14px"> [Job Market Paper](https://kubrahoke.github.io/files/Job_Market_Paper.pdf) </span>
