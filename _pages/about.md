@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:16px;">I am currently a Teaching Associate at Lancaster University Management School. I defended my Ph.D. thesis in economics at the Bogazici University in October 2022 under the supervision of Murat Koyuncu.</span>
+<span style="font-size:16px;">I am currently a Teaching Associate at Lancaster University Management School. I defended my Ph.D. thesis in economics at Bogazici University in October 2022 under the supervision of Murat Koyuncu.</span>
 
 <span style="font-size:16px;">My primary research focus is in the field of macroeconomics, with a specific emphasis on growth and taxation.</span>
 
